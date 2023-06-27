@@ -1,5 +1,7 @@
 ## Introduction
 
+A visual overview of the project and it's functionality can be observed in this [link to a youtube presentation](https://youtu.be/-hjULtfdjc4)
+
 This README describes how to setup the development environment.
 These instructions address the development with a local environment, i.e. on the machine (that can be a VM) **without using a Docker container for PHP or Laravel**.
 Containers are used for PostgreSQL and pgAdmin, though.
@@ -50,4 +52,3 @@ Technical diagrams, user stories, openapi specification and other information re
 - [lbaw2222_er.pdf](lbaw2222_er.pdf)
 - [lbaw2222_pa.pdf](lbaw2222_pa.pdf)
   
-A visual overview of the project and it's functionality can be observed in this [link to a youtube presentation](https://youtu.be/-hjULtfdjc4)
