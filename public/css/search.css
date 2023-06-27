@@ -1,0 +1,35 @@
+.sidepanel, #timeline{
+    padding-left: 1em;
+    padding-top: 1em;
+}
+
+.sidepanel h2, #timeline h2{
+    font-size: 1.5em;
+}
+
+.sidepanel input[type="radio"]{
+    margin-right: 0.5em;
+}
+
+.sidepanel .flex{
+    align-items: center;
+}
+
+.sidepanel label{
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+.profile_image{
+    height: 3em;
+    width: 3em;
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+
+.profile_info{
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
