@@ -1,5 +1,3 @@
-# LBAW's framework
-
 ## Introduction
 
 This README describes how to setup the development environment.
@@ -45,3 +43,11 @@ On the first usage you will need to add the connection to the database using the
 Hostname is _postgres_ instead of _localhost_ since _Docker Compose_ creates an internal DNS entry to facilitate the connection between linked containers.
 
 Access http://localhost:8000 to access the app. Username is `admin@example.com`, and password `1234`. These credentials are copied to the database on the first instruction above.
+
+Technical diagrams, user stories, openapi specification and other information regarding the development process can be found in the following files:
+- [lbaw2222_eap.pdf](lbaw2222_eap.pdf)
+- [lbaw2222_ebd.pdf](lbaw2222_ebd.pdf)
+- [lbaw2222_er.pdf](lbaw2222_er.pdf)
+- [lbaw2222_pa.pdf](lbaw2222_pa.pdf)
+  
+A visual overview of the project and it's functionality can be observed in this [link to a youtube presentation](https://youtu.be/-hjULtfdjc4)
